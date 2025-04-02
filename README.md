@@ -14,5 +14,5 @@
 
 ##**Multi-Cloud Architecture** involves using multiple cloud service providers (e.g., AWS, Azure, Google Cloud) to meet different business needs. It offers benefits like avoiding vendor lock-in, increasing flexibility, improving availability, and optimizing costs. Key features include distributed resources, risk mitigation, and enhanced performance. However, it can lead to management complexity, integration challenges, and potential data transfer costs. It's often used for disaster recovery, compliance, and global scalability.
 
-
+OUTPUT: ![Image](https://github.com/user-attachments/assets/6d530197-7570-4d48-9450-a4b4d4ace8c0)
 
